@@ -20,7 +20,7 @@ object SparkApp extends App {
 }
 
 /*
-A,7)
+(A,7)
 (B,3)
 (C,1)
 (E,1)
