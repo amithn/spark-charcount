@@ -18,3 +18,20 @@ object SparkApp extends App {
 
   Thread.sleep(10000 * 100)
 }
+
+/*
+A,7)
+(B,3)
+(C,1)
+(E,1)
+(H,2)
+(I,2)
+(J,1)
+(K,1)
+(L,1)
+(M,3)
+(N,3)
+(O,3)
+(R,2)
+(T,2)
+*/
