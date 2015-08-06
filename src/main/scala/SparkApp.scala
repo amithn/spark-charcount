@@ -16,7 +16,7 @@ object SparkApp extends App {
 
   results.foreach(println)
 
-  Thread.sleep(10000 * 100)
+  //Thread.sleep(10000 * 100)
 }
 
 /*
